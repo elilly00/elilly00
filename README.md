@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elilly00
-- 👀 I’m interested in Java,Oracle SQL, HTML5, CSS3, JavaScript
-- 🌱 I’m currently learning Java, Oracle SQL, HTML5, CSS3, JavaScript
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java, JavaScript
 
 
 <!---
