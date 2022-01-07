@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elilly00&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @elilly00
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java, Spring, myBatis
