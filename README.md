@@ -12,6 +12,4 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=F7DF1E) 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felilly00%2Felilly00.git&count_bg=%239AA5D5&title_bg=%239A9696&icon=diaspora.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felilly00%2Fhit-counter&count_bg=%23B6C7E9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
