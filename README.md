@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Jeong Eun Park&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=JeongEunPark&fontSize=50" />
 </p>
 
 <h2 align="center"> 🌳 GitHub Stats & Top Langs 🌳 </h2>
