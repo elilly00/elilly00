@@ -22,7 +22,7 @@
 </p>
 
 
-<h2 align="center"> 🛠 Tools 🛠 </h2>
+<!-- <h2 align="center"> 🛠 Tools 🛠 </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
-
+ -->
 <br/>
 
 <div align="center">
